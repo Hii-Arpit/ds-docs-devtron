@@ -451,6 +451,26 @@ const sidebars = {
         id: 'user-guide/global-configurations/README',
       },
       items: [
+        {
+          type: 'category',
+          label: 'SSO Login Services',
+          collapsed: true,
+          link: {
+            type: 'doc', // or 'generated-index'
+            id: 'user-guide/global-configurations/sso-login',
+          },
+          items: [
+            'user-guide/global-configurations/authorization/sso/google',
+            'user-guide/global-configurations/authorization/sso/github',
+            'user-guide/global-configurations/authorization/sso/gitlab',
+            'user-guide/global-configurations/authorization/sso/microsoft',
+            'user-guide/global-configurations/authorization/sso/ldap',
+            'user-guide/global-configurations/authorization/sso/oidc',
+            'user-guide/global-configurations/authorization/sso/keycloak',
+            'user-guide/global-configurations/authorization/sso/okta',
+            'user-guide/global-configurations/authorization/sso/openshift',
+          ],
+        },
         'user-guide/global-configurations/host-url',
         'user-guide/global-configurations/cluster-and-environments',
         'user-guide/global-configurations/container-registries',
@@ -464,35 +484,11 @@ const sidebars = {
             id: 'user-guide/global-configurations/authorization/README',
           },
           items: [
-            {
-              type: 'category',
-              label: 'SSO Login Services',
-              collapsed: true,
-              link: {
-                type: 'doc', // or 'generated-index'
-                id: 'user-guide/global-configurations/sso-login',
-              },
-              items: [
-                'user-guide/global-configurations/authorization/sso/google',
-                'user-guide/global-configurations/authorization/sso/github',
-                'user-guide/global-configurations/authorization/sso/gitlab',
-                'user-guide/global-configurations/authorization/sso/microsoft',
-                'user-guide/global-configurations/authorization/sso/ldap',
-                'user-guide/global-configurations/authorization/sso/oidc',
-                'user-guide/global-configurations/authorization/sso/keycloak',
-                'user-guide/global-configurations/authorization/sso/okta',
-                'user-guide/global-configurations/authorization/sso/openshift',
-              ],
-            },
             'user-guide/global-configurations/authorization/user-access',
             'user-guide/global-configurations/authorization/permission-groups',
             'user-guide/global-configurations/authorization/api-tokens',
           ],
         },
-        'user-guide/global-configurations/external-links',
-        'user-guide/global-configurations/catalog-framework',
-        'user-guide/global-configurations/image-promotion-policy',
-
       ],
     },
 
