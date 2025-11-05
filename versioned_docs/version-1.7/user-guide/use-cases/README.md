@@ -2,6 +2,7 @@
 id: README
 title: Use Cases
 sidebar_label: Use Cases
+hide_table_of_contents: true
 ---
 
 # Use Cases

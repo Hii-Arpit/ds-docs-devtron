@@ -2,6 +2,7 @@
 id: projects
 title: Projects
 sidebar_label: Projects
+hide_table_of_contents: true
 ---
 
 # Projects
@@ -10,7 +11,7 @@ Projects are the logical grouping of your applications so that you can manage an
 
 Refer [user access](../global-configurations/authorization/user-access.md) for more detail.
 
-## Add Project:
+## Add Project
 
 1. To add a project name, go to the `Projects` section of `Global Configurations`. 
 2. Click `Add Project`.

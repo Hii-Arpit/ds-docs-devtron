@@ -1,3 +1,7 @@
+---
+hide_table_of_contents: true
+---
+
 # Cloning Application
 
 Click on `Create New` and the select `Custom app` to create a new application.

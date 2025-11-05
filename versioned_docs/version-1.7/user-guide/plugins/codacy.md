@@ -2,6 +2,7 @@
 id: codacy
 title: Codacy
 sidebar_label: Codacy
+hide_table_of_contents: true
 ---
 
 # Codacy

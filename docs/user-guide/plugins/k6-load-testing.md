@@ -1,3 +1,7 @@
+---
+hide_table_of_contents: true
+---
+
 # K6 Load Testing
 
 K6 is an open-source tool and cloud service that makes load testing easy for developers and QA engineers.

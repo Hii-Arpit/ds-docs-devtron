@@ -2,6 +2,7 @@
 id: dependency-track-nodejs
 title: Dependency Track for NodeJs
 sidebar_label: Dependency Track for NodeJs
+hide_table_of_contents: true
 ---
 
 # Dependency Track for NodeJs

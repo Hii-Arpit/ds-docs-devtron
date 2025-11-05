@@ -2,6 +2,7 @@
 id: semgrep
 title: Semgrep
 sidebar_label: Semgrep
+hide_table_of_contents: true
 ---
 
 # Semgrep

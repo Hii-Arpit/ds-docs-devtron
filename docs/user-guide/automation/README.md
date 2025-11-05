@@ -3,6 +3,7 @@ id: README
 title: Automation & Enablement
 sidebar_label: Automation & Enablement
 description: Learn how to automate operational workflows, job executions, and enable advanced automation capabilities in Devtron.
+hide_table_of_contents: true
 ---
 
 The **Automation & Enablement** section in Devtron helps teams build automation pipelines beyond standard CI/CD workflows.  
@@ -10,7 +11,7 @@ It enables job creation, configuration, and scheduling for routine operational t
 
 ## Table of Contents
 
-### 1. [Jobs](../jobs/README.md)
+### [Jobs](../jobs/README.md)
 Understand how Devtron’s **Jobs** feature allows you to create and manage automated workflows and one-time tasks. Devtron Jobs are especially useful for automating scripts, infrastructure tasks, or recurring DevOps routines all executed within your existing Kubernetes environments.
 
 #### Key Topics

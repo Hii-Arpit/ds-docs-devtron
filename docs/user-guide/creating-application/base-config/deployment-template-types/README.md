@@ -1,3 +1,7 @@
+---
+hide_table_of_contents: true
+---
+
 # Types of Deployment Templates
 
 In Devtron, the following deployment charts are available for you to use for your application:

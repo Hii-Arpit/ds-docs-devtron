@@ -2,6 +2,7 @@
 id: hashicorp-eso
 title: HashiCorp Vault
 sidebar_label: HashiCorp Vault
+hide_table_of_contents: true
 ---
 
 # HashiCorp Vault

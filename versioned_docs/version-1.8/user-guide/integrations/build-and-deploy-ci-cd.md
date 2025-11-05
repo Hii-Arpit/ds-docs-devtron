@@ -2,6 +2,7 @@
 id: build-and-deploy-ci-cd
 title: Build and Deploy (CI/CD)
 sidebar_label: Build and Deploy (CI/CD)
+hide_table_of_contents: true
 ---
 
 # Build and Deploy (CI/CD)

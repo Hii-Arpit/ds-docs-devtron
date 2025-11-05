@@ -2,6 +2,7 @@
 id: README
 title: Deploying Application
 sidebar_label: Deploying Application
+hide_table_of_contents: true
 ---
 
 # Deploying Application

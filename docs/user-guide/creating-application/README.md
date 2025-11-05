@@ -1,3 +1,7 @@
+---
+hide_table_of_contents: true
+---
+
 # App Configuration
 
 **Please configure Global Configurations before moving ahead with App Configuration**

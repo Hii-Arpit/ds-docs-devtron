@@ -2,6 +2,7 @@
 id: configurations-overview
 title: Advanced Configurations
 sidebar_label: Advanced Configurations
+hide_table_of_contents: true
 ---
 
 # Advanced Configurations

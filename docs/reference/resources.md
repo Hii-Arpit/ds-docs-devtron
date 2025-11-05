@@ -1,3 +1,7 @@
+---
+hide_table_of_contents: true
+---
+
 # Resources
 
 This section groups reference material, troubleshooting notes, upgrade/install resources, integrations and plugins, use-cases and other supporting docs.

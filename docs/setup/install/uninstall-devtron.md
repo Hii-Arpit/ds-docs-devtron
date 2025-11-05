@@ -1,3 +1,7 @@
+---
+hide_table_of_contents: true
+---
+
 # Uninstall Devtron 
 
 To uninstall Devtron, run the following command:

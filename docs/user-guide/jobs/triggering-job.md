@@ -1,3 +1,7 @@
+---
+hide_table_of_contents: true
+---
+
 # Triggering Job Pipeline
 
 After creating the job pipeline, the next step is to trigger the job pipeline. This is the step where the job will be executed in the selected environment.

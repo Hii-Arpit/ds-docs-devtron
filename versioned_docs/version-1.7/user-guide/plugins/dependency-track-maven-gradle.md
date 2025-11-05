@@ -2,6 +2,7 @@
 id: dependency-track-maven-gradle
 title: Dependency Track for Maven & Gradle
 sidebar_label: Dependency Track for Maven & Gradle
+hide_table_of_contents: true
 ---
 
 # Dependency Track for Maven & Gradle

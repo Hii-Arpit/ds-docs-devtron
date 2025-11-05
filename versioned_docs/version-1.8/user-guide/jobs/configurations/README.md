@@ -2,6 +2,7 @@
 id: README
 title: Configurations
 sidebar_label: Configurations
+hide_table_of_contents: true
 ---
 
 # Configurations

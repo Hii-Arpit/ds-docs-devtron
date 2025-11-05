@@ -2,6 +2,7 @@
 id: grafana
 title: Monitoring (Grafana)
 sidebar_label: Monitoring (Grafana)
+hide_table_of_contents: true
 ---
 
 # Monitoring (Grafana)

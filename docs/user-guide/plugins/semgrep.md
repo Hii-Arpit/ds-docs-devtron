@@ -1,3 +1,7 @@
+---
+hide_table_of_contents: true
+---
+
 # Semgrep
 
 Semgrep is a fast, open source, static analysis engine for finding bugs, detecting dependency vulnerabilities, and enforcing code standards.

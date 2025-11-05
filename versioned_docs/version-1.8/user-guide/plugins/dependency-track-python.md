@@ -2,6 +2,7 @@
 id: dependency-track-python
 title: Dependency Track for Python
 sidebar_label: Dependency Track for Python
+hide_table_of_contents: true
 ---
 
 # Dependency Track for Python

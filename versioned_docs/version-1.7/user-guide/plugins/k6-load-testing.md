@@ -2,6 +2,7 @@
 id: k6-load-testing
 title: K6 Load Testing
 sidebar_label: K6 Load Testing
+hide_table_of_contents: true
 ---
 
 # K6 Load Testing

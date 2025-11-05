@@ -2,6 +2,7 @@
 id: projects
 title: Projects
 sidebar_label: Projects
+hide_table_of_contents: true
 ---
 
 # Projects

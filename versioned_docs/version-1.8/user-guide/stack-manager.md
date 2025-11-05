@@ -2,6 +2,7 @@
 id: stack-manager
 title: Devtron Integrations
 sidebar_label: Devtron Integrations
+hide_table_of_contents: true
 ---
 
 # Devtron Integrations
@@ -10,7 +11,7 @@ Devtron integrations extend the functionality of your Devtron stack.
 
 ## Discover and install integrations
  
-The current release of Devtron supports the Build and Deploy (CI/CD) integration. More integrations will be available soon; to request one, please [submit a ticket](https://github.com/devtron-labs/devtron/issues/new/choose)
+The current release of Devtron supports multiple integrations. To request one, please [submit a ticket](https://github.com/devtron-labs/devtron/issues/new/choose)
 
 > Integrations can be installed by super admins; However other user roles can browse and request super admins to install the required integrations.
 

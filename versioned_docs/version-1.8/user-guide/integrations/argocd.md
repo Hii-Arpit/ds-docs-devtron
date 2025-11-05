@@ -2,6 +2,7 @@
 id: argocd
 title: GitOps (Argo CD)
 sidebar_label: GitOps (Argo CD)
+hide_table_of_contents: true
 ---
 
 # GitOps (Argo CD)

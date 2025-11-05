@@ -2,6 +2,7 @@
 id: what-is-job
 title: What is Job?
 sidebar_label: What is Job?
+hide_table_of_contents: true
 ---
 
 # What is Job?

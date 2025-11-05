@@ -2,6 +2,7 @@
 id: cluster-terminal
 title: Cluster Terminal
 sidebar_label: Cluster Terminal
+hide_table_of_contents: true
 ---
 
 # Cluster Terminal

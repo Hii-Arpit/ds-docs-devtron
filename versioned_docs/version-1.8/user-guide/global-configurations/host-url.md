@@ -2,6 +2,7 @@
 id: host-url
 title: Host URL
 sidebar_label: Host URL
+hide_table_of_contents: true
 ---
 
 # Host URL

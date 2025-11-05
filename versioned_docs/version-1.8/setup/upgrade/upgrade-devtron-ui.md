@@ -2,11 +2,12 @@
 id: upgrade-devtron-ui
 title: Update Devtron from Devtron UI
 sidebar_label: Update Devtron from Devtron UI
+hide_table_of_contents: true
 ---
 
 # Update Devtron from Devtron UI
  
-Devtron can be updated from the **Devtron Stack Manage → About Devtron** section.
+Devtron can be updated from the **Devtron Stack Manager → About Devtron** section.
  
 ![Upgrade Devtron](https://devtron-public-asset.s3.us-east-2.amazonaws.com/integrations/about-devtron.png)
  

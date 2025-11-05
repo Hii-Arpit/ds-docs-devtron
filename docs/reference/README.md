@@ -1,3 +1,7 @@
+---
+hide_table_of_contents: true
+---
+
 # Additional Installation Resources
 
 Every environment is different, and you may want to tune, extend, or troubleshoot your installation.

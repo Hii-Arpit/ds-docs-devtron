@@ -2,6 +2,7 @@
 id: triggering-job
 title: Triggering Job Pipeline
 sidebar_label: Triggering Job Pipeline
+hide_table_of_contents: true
 ---
 
 # Triggering Job Pipeline

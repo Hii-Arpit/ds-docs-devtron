@@ -2,6 +2,7 @@
 id: sonarqube-v1.1.0
 title: Sonarqube v1.1.0
 sidebar_label: Sonarqube v1.1.0
+hide_table_of_contents: true
 ---
 
 # Sonarqube v1.1.0

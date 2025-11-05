@@ -2,6 +2,7 @@
 id: README
 title: Types of Deployment Templates
 sidebar_label: Types of Deployment Templates
+hide_table_of_contents: true
 ---
 
 # Types of Deployment Templates

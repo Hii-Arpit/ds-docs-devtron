@@ -2,6 +2,7 @@
 id: sonarqube
 title: SonarQube
 sidebar_label: SonarQube
+hide_table_of_contents: true
 ---
 
 # SonarQube

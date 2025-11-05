@@ -1,3 +1,7 @@
+---
+hide_table_of_contents: true
+---
+
 # SonarQube
 
 Configuring `Sonarqube` in pre-build or post build task enhances your workflow with Continuous Code Quality & Code Security.

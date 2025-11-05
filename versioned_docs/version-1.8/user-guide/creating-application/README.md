@@ -2,6 +2,7 @@
 id: README
 title: App Configuration
 sidebar_label: App Configuration
+hide_table_of_contents: true
 ---
 
 # App Configuration

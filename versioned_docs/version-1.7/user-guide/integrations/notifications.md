@@ -2,6 +2,7 @@
 id: notifications
 title: Notifications
 sidebar_label: Notifications
+hide_table_of_contents: true
 ---
 
 # Notifications

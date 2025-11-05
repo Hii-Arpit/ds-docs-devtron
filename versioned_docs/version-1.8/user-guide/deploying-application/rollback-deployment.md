@@ -2,6 +2,7 @@
 id: rollback-deployment
 title: Rollback Deployment
 sidebar_label: Rollback Deployment
+hide_table_of_contents: true
 ---
 
 # Rollback Deployment

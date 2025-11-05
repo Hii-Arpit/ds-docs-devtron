@@ -2,6 +2,7 @@
 id: uninstall-devtron
 title: Uninstall Devtron
 sidebar_label: Uninstall Devtron
+hide_table_of_contents: true
 ---
 
 # Uninstall Devtron 

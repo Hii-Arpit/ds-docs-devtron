@@ -1,3 +1,7 @@
+---
+hide_table_of_contents: true
+---
+
 # Devtron Integrations
  
 Devtron integrations extend the functionality of your Devtron stack.

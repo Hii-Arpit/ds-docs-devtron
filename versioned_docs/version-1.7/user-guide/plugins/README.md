@@ -2,6 +2,7 @@
 id: README
 title: Pipeline Plugins
 sidebar_label: Pipeline Plugins
+hide_table_of_contents: true
 ---
 
 # Pipeline Plugins

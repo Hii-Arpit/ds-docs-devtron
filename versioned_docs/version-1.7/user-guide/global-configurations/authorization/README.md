@@ -2,9 +2,10 @@
 id: README
 title: README
 sidebar_label: README
+hide_table_of_contents: true
 ---
 
-`Authorization` section describes how to authenticate and authorize access to resources, also managing role-based access levels in Devtron. 
+**Authorization** section describes how to authenticate and authorize access to resources, also managing role-based access levels in Devtron. 
 
 Access can be granted to a user via:
 

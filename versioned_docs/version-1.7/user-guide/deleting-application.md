@@ -2,6 +2,7 @@
 id: deleting-application
 title: Deleting Application
 sidebar_label: Deleting Application
+hide_table_of_contents: true
 ---
 
 # Deleting Application

@@ -1,3 +1,7 @@
+---
+hide_table_of_contents: true
+---
+
 # Google Secrets Manager
 
 :::caution Prerequisite 

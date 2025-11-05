@@ -2,9 +2,10 @@
 id: plugin-list
 title: plugin-list
 sidebar_label: plugin-list
+hide_table_of_contents: true
 ---
 
-## Our Plugins
+# Our Plugins
 
 We have multiple plugins available in Devtron. At the moment, here are the plugins for which user guide is available.
 * [Bitbucket Runner Trigger](./bitbucket-runner-trigger.md)

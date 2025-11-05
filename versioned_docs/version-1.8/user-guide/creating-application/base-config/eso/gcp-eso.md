@@ -2,6 +2,7 @@
 id: gcp-eso
 title: Google Secrets Manager
 sidebar_label: Google Secrets Manager
+hide_table_of_contents: true
 ---
 
 # Google Secrets Manager

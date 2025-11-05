@@ -1,3 +1,7 @@
+---
+hide_table_of_contents: true
+---
+
 # Sonarqube v1.1.0
 
 Configuring `Sonarqube-v1.1.0` in pre-build or post build task enhances your workflow with Continuous Code Quality & Code Security.

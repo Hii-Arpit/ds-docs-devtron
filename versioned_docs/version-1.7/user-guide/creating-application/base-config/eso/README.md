@@ -2,6 +2,7 @@
 id: README
 title: Types of External Secrets
 sidebar_label: Types of External Secrets
+hide_table_of_contents: true
 ---
 
 # Types of External Secrets
