@@ -1,3 +1,9 @@
+---
+id: deployment-charts
+title: Deployment Charts
+sidebar_label: Deployment Charts
+---
+
 # Deployment Charts
 
 ## Introduction

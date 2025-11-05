@@ -1,3 +1,9 @@
+---
+id: tags-policy
+title: Tags Policy
+sidebar_label: Tags Policy
+---
+
 # Tags Policy
 
 ## Introduction <a href="https://devtron.ai/pricing"><img src="https://devtron-public-asset.s3.us-east-2.amazonaws.com/images/elements/EnterpriseTag.svg" className="enterprise-badge-img" /></a>

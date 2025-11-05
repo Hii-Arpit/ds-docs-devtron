@@ -1,3 +1,9 @@
+---
+id: manage-notification
+title: Manage Notifications
+sidebar_label: Manage Notifications
+---
+
 # Manage Notifications
 
 ## Introduction

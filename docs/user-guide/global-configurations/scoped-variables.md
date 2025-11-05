@@ -1,3 +1,9 @@
+---
+id: scoped-variables
+title: Using Scoped Variables in Devtron
+sidebar_label: Scoped Variables
+---
+
 # Using Scoped Variables in Devtron
 
 ## Introduction

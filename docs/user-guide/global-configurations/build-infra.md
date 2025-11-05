@@ -1,3 +1,9 @@
+---
+id: build-infra
+title: Build Infra
+sidebar_label: Build Infra
+---
+
 # Build Infra
 
 ## Introduction

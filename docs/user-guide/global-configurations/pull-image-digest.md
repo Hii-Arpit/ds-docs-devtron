@@ -1,3 +1,9 @@
+---
+id: pull-image-digest
+title: Pull Image Digest
+sidebar_label: Pull Image Digest
+---
+
 # Pull Image Digest
 
 ## Introduction

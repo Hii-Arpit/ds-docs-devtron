@@ -1,3 +1,9 @@
+---
+id: projects
+title: Projects
+sidebar_label: Projects
+---
+
 # Projects
 
 Projects are the logical grouping of your applications so that you can manage and control the access level of users. 

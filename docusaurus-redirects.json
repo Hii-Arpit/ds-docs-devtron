@@ -749,7 +749,7 @@
             "from": [
               "/global-configurations/application-template"
             ],
-            "to": "/docs/user-guide/global-configurations/application-template"
+            "to": "/docs/user-guide/app-management/application-template"
           },
           {
             "from": [
