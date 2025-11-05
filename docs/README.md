@@ -72,10 +72,10 @@ Here’s how you can explore Devtron step-by-step through this documentation:
 
 ## Who Is Devtron For?
 
-* **Developers** — who want fast, reliable deployments without losing control.  
-* **DevOps Engineers** — who need central governance and automation.  
-* **SREs** — who care about reliability, visibility, and cost efficiency.  
-* **Engineering Leaders** — who want a unified platform that scales with their teams.
+* **Developers** - who want fast, reliable deployments without losing control.  
+* **DevOps Engineers** - who need central governance and automation.  
+* **SREs** - who care about reliability, visibility, and cost efficiency.  
+* **Engineering Leaders** - who want a unified platform that scales with their teams.
 
 ---
 
