@@ -2,6 +2,7 @@
 id: scoped-variables
 title: Using Scoped Variables in Devtron
 sidebar_label: Scoped Variables
+slug: /user-guide/app-management/configurations/scoped-variables
 ---
 
 # Using Scoped Variables in Devtron

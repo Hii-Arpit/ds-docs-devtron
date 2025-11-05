@@ -2,6 +2,7 @@
 id: git-accounts
 title: Git Accounts
 sidebar_label: Git Accounts
+slug: /user-guide/app-management/configurations/git-accounts
 ---
 
 # Git Accounts

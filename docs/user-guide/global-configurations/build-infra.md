@@ -2,6 +2,7 @@
 id: build-infra
 title: Build Infra
 sidebar_label: Build Infra
+slug: /user-guide/app-management/configurations/build-infra
 ---
 
 # Build Infra

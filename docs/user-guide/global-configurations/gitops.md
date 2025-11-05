@@ -2,6 +2,7 @@
 id: gitops
 title: GitOps
 sidebar_label: GitOps
+slug: /user-guide/app-management/configurations/gitops
 ---
 
 # GitOps

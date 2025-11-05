@@ -2,6 +2,7 @@
 id: chart-repo
 title: Chart Repository
 sidebar_label: Chart Repository
+slug: /user-guide/app-management/configurations/chart-repo
 ---
 
 # Chart Repository

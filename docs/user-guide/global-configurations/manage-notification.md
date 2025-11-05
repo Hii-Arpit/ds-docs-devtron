@@ -2,6 +2,7 @@
 id: manage-notification
 title: Manage Notifications
 sidebar_label: Manage Notifications
+slug: /user-guide/app-management/configurations/manage-notification
 ---
 
 # Manage Notifications

@@ -94,7 +94,7 @@
               "/getting-started/global-configurations/gitops",
               "/setup/global-configurations/gitops"
             ],
-            "to": "/docs/user-guide/global-configurations/gitops"
+            "to": "/docs/user-guide/app-management/configurations/gitops"
           },
           {
             "from": [
@@ -102,7 +102,7 @@
               "/global-configurations/custom-charts",
               "/setup/global-configurations/custom-charts"
             ],
-            "to": "/docs/user-guide/global-configurations/deployment-charts"
+            "to": "/docs/user-guide/app-management/configurations/deployment-charts"
           },
           {
             "from": [
@@ -131,7 +131,7 @@
               "/getting-started/global-configurations/manage-notification",
               "/setup/global-configurations/manage-notification"
             ],
-            "to": "/docs/user-guide/global-configurations/manage-notification"
+            "to": "/docs/user-guide/app-management/configurations/manage-notification"
           },
           {
             "from": [
@@ -146,7 +146,7 @@
               "/getting-started/global-configurations/git-accounts",
               "/setup/global-configurations/git-accounts"
             ],
-            "to": "/docs/user-guide/global-configurations/git-accounts"
+            "to": "/docs/user-guide/app-management/configurations/git-accounts"
           },
           {
             "from": [
@@ -161,7 +161,7 @@
               "/getting-started/global-configurations/chart-repo",
               "/setup/global-configurations/chart-repo"
             ],
-            "to": "/docs/user-guide/global-configurations/chart-repo"
+            "to": "/docs/user-guide/app-management/configurations/chart-repo"
           },
           {
             "from": [
@@ -273,7 +273,7 @@
               "/getting-started/global-configurations/scoped-variables",
               "/setup/global-configurations/scoped-variables"
             ],
-            "to": "/docs/user-guide/global-configurations/scoped-variables"
+            "to": "/docs/user-guide/app-management/configurations/scoped-variables"
           },
           {
             "from": [
@@ -315,7 +315,7 @@
               "/getting-started/global-configurations/build-infra",
               "/setup/global-configurations/build-infra"
             ],
-            "to": "/docs/user-guide/global-configurations/build-infra"
+            "to": "/docs/user-guide/app-management/configurations/build-infra"
           },
           {
             "from": [
@@ -617,7 +617,7 @@
             "from": [
               "/global-configurations/gitops"
             ],
-            "to": "/docs/user-guide/global-configurations/gitops"
+            "to": "/docs/user-guide/app-management/configurations/gitops"
           },
           {
             "from": [
@@ -635,7 +635,7 @@
             "from": [
               "/global-configurations/git-accounts"
             ],
-            "to": "/docs/user-guide/global-configurations/git-accounts"
+            "to": "/docs/user-guide/app-management/configurations/git-accounts"
           },
           {
             "from": [
@@ -647,13 +647,13 @@
             "from": [
               "/global-configurations/chart-repo"
             ],
-            "to": "/docs/user-guide/global-configurations/chart-repo"
+            "to": "/docs/user-guide/app-management/configurations/chart-repo"
           },
           {
             "from": [
               "/global-configurations/deployment-charts"
             ],
-            "to": "/docs/user-guide/global-configurations/deployment-charts"
+            "to": "/docs/user-guide/app-management/configurations/deployment-charts"
           },
           {
             "from": [
@@ -743,7 +743,7 @@
             "from": [
               "/global-configurations/manage-notification"
             ],
-            "to": "/docs/user-guide/global-configurations/manage-notification"
+            "to": "/docs/user-guide/app-management/configurations/manage-notification"
           },
           {
             "from": [
@@ -779,7 +779,7 @@
             "from": [
               "/global-configurations/scoped-variables"
             ],
-            "to": "/docs/user-guide/global-configurations/scoped-variables"
+            "to": "/docs/user-guide/app-management/configurations/scoped-variables"
           },
           {
             "from": [
@@ -821,7 +821,7 @@
             "from": [
               "/global-configurations/build-infra"
             ],
-            "to": "/docs/user-guide/global-configurations/build-infra"
+            "to": "/docs/user-guide/app-management/configurations/build-infra"
           },
           {
             "from": [
