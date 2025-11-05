@@ -11,7 +11,7 @@
     {
       "type": "category",
       "label": "Install Devtron",
-      "collapsed": true,
+      "collapsed": false,
       "link": {
         "type": "doc",
         "id": "setup/install/README"
@@ -29,7 +29,7 @@
     {
       "type": "category",
       "label": "Global Configurations",
-      "collapsed": true,
+      "collapsed": false,
       "link": {
         "type": "doc",
         "id": "user-guide/global-configurations/README"
