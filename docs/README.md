@@ -36,14 +36,14 @@ Here’s how you can explore Devtron step-by-step through this documentation:
 |-------|------------------|
 | **1. Setup & Installation** | Install and access Devtron in your cluster. |
 | **2. Application Management** | Create, deploy, monitor, and roll back microservices using Helm or CI/CD pipelines. |
-| **3. Infrastructure Management** | Provision and manage clusters like EKS, GKE, or self-hosted environments. |
+| **3. Infrastructure Management** | Monitor and Debug using Resource Browser, and perform remediation actions. |
 | **4. Software Release Management** | Control releases with advanced workflows, approvals, and versioning. |
 | **5. Cost Visibility** | Track and analyze Kubernetes resource costs across clusters. |
-| **6. Security & Policies** | Integrate scanning and enforce organizational policies. |
-| **7. Automation & Enablement** | Automate tasks, configure notifications, and streamline operations. |
-| **8. AI Recommendations** | Use Athena AI to get actionable insights for debugging and optimization. |
+| **6. Security & Policies** | Integrate scanning and enforce policies across your workloads. |
+| **7. Automation & Enablement** | Automate tasks and streamline operations. |
+| **8. AI Recommendations** | Use AI to get actionable insights for right-sizing and optimization. |
 | **9. Global Configurations** | Manage environment-level configs, secrets, and templates. |
-| **10. Resources** | Learn about Devtron APIs, use cases, and best practices. |
+| **10. Resources** | Access troubleshooting, glossary, additional configs, upgrades, plugins, integrations  |
 
 ---
 
@@ -51,7 +51,7 @@ Here’s how you can explore Devtron step-by-step through this documentation:
 
 * **Unified DevOps Hub** – Bring CI/CD, observability, cost, and security into one dashboard.  
 * **Deep Kubernetes Integration** – Works seamlessly with Helm, ArgoCD, Prometheus, Grafana, and more.  
-* **Developer-Friendly UI** – No need to memorize kubectl commands; every operation is visual and intuitive.  
+* **Developer-Friendly UI** – No need to memorize kubectl commands because every operation is visual and intuitive.  
 * **Enterprise-Ready** – Built-in RBAC, audit logs, SSO, and multi-cluster management.  
 * **AI-Augmented Decisions** – Get smart recommendations to debug faster and deploy confidently.
 
@@ -66,7 +66,7 @@ Here’s how you can explore Devtron step-by-step through this documentation:
 | **Monitoring** | Get integrated observability with prebuilt dashboards. |
 | **Cost Analysis** | Understand where your cloud spend goes within clusters. |
 | **Security** | Scan images, enforce policies, and prevent risky deployments. |
-| **AI Recommendations** | Identify anomalies and fix issues faster using Athena. |
+| **AI Recommendations** | Identify anomalies and fix issues faster using AI. |
 
 ---
 
