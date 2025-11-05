@@ -787,3 +787,91 @@ html[data-theme='dark'] .theme-tabs-container .tabs__item--active {
     }
   }
   
+
+/* ======= Responsive tables: Desktop clean + mobile-friendly ======= */
+
+/* ---------- Desktop / large screens: keep table semantics and centered ---------- */
+.markdown table,
+.theme-doc-markdown table {
+  display: table;                   /* real table on desktop */
+  width: 100% !important;
+  max-width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  table-layout: fixed;              /* stable columns on desktop; change to auto if you prefer */
+  border-collapse: collapse;
+  box-sizing: border-box;
+}
+
+/* Cells */
+.markdown th,
+.markdown td,
+.theme-doc-markdown th,
+.theme-doc-markdown td {
+  padding: 12px 14px;
+  border: 1px solid var(--ifm-table-border-color, #e1e1e1);
+  vertical-align: top;
+  word-break: break-word;           /* wrap long content */
+}
+
+/* Desktop header */
+.markdown thead,
+.theme-doc-markdown thead {
+  background-color: var(--ifm-table-head-background, #f7f7f7);
+  font-weight: 600;
+}
+
+/* Desktop polish (enabled only on larger screens) */
+@media (min-width: 769px) {
+  .markdown table,
+  .theme-doc-markdown table {
+    border-radius: 8px;
+    overflow: hidden;                /* keep rounded corners and shadow on desktop */
+    box-shadow: 0 0 4px rgba(0,0,0,0.03);
+  }
+}
+
+/* ----- Mobile-friendly table rules (replace prior mobile block) ----- */
+@media (max-width: 768px) {
+
+  /* Keep semantic table but allow overflow — browser will show a scroll if needed */
+  .markdown table,
+  .theme-doc-markdown table {
+    display: table;               /* keep real table semantics */
+    width: 100% !important;       /* stay inside content column */
+    max-width: 100% !important;
+    table-layout: auto !important;/* let content determine column widths on mobile */
+    overflow-x: auto;             /* enable horizontal scroll when table is wider */
+    -webkit-overflow-scrolling: touch;
+    box-sizing: border-box;
+    margin: 0 0 1rem 0;
+    border-radius: 0;             /* remove rounding to avoid clipping artefacts */
+    box-shadow: none;
+  }
+
+  /* Header: keep header labels on one line where possible */
+  .markdown thead th,
+  .theme-doc-markdown thead th {
+    white-space: nowrap;          /* prevents label from breaking into multiple short lines */
+    padding: 8px 10px;
+    font-weight: 600;
+  }
+
+  /* Body cells: allow wrapping for long paragraph text */
+  .markdown tbody td,
+  .theme-doc-markdown tbody td,
+  .markdown td,
+  .theme-doc-markdown td {
+    white-space: normal;
+    word-break: break-word;
+    padding: 8px 10px;
+    font-size: 14px;
+  }
+
+  /* If your theme hides overflow on inner wrappers, allow visible overflow so scroll works */
+  .theme-doc-markdown,
+  .docMainContainer,
+  .markdown {
+    overflow-x: visible !important;
+  }
+}
