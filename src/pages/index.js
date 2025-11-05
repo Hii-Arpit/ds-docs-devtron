@@ -44,14 +44,14 @@ const features = [
     title: 'Application Management',
     Icon: Box,
     description: 'Create, configure, and deploy applications with ease.',
-    link: '/docs/user-guide/app-management/application-overview',
+    link: '/docs/user-guide/app-management',
     color: '#2563EB',
   },
   {
     title: 'Infrastructure Management',
     Icon: Server,
     description: 'Browse resources, manage clusters, and monitor your infrastructure.',
-    link: '/docs/user-guide/resource-browser',
+    link: '/docs/user-guide/infra-management',
     color: '#0891B2',
   },
   {
@@ -65,7 +65,7 @@ const features = [
     title: 'Cost Visibility',
     Icon: DollarSign,
     description: 'Track and optimize your infrastructure costs.',
-    link: '/docs/user-guide/finops/overview-cost-visibility',
+    link: '/docs/user-guide/finops',
     color: '#10B981',
   },
   {
@@ -79,7 +79,7 @@ const features = [
     title: 'Automation & Enablement',
     Icon: Zap,
     description: 'Automate workflows and create jobs for your pipelines.',
-    link: '/docs/user-guide/jobs',
+    link: '/docs/user-guide/automation',
     color: '#F59E0B',
   },
   {
@@ -107,7 +107,7 @@ const features = [
     title: 'Resources',
     Icon: FileText,
     description: 'Access glossary, FAQs, integrations, and upgrade guides.',
-    link: '/docs/reference/glossary',
+    link: '/docs/reference/resources',
     color: '#64748B',
   },
 ];
