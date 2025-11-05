@@ -2,6 +2,7 @@
 id: lock-deployment-config
 title: Lock Deployment Configuration
 sidebar_label: Lock Deployment Configuration
+slug: /user-guide/app-management/policies/lock-deployment-config
 ---
 
 # Lock Deployment Configuration

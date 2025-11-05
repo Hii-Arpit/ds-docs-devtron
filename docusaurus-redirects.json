@@ -280,21 +280,21 @@
               "/getting-started/global-configurations/pull-image-digest",
               "/setup/global-configurations/pull-image-digest"
             ],
-            "to": "/docs/user-guide/global-configurations/pull-image-digest"
+            "to": "/docs/user-guide/app-management/policies/pull-image-digest"
           },
           {
             "from": [
               "/getting-started/global-configurations/tags-policy",
               "/setup/global-configurations/tags-policy"
             ],
-            "to": "/docs/user-guide/global-configurations/tags-policy"
+            "to": "/docs/user-guide/app-management/policies/tags-policy"
           },
           {
             "from": [
               "/getting-started/global-configurations/lock-deployment-config",
               "/setup/global-configurations/lock-deployment-config"
             ],
-            "to": "/docs/user-guide/global-configurations/lock-deployment-config"
+            "to": "/docs/user-guide/app-management/policies/lock-deployment-config"
           },
           {
             "from": [
@@ -308,7 +308,7 @@
               "/getting-started/global-configurations/filter-condition",
               "/setup/global-configurations/filter-condition"
             ],
-            "to": "/docs/user-guide/global-configurations/filter-condition"
+            "to": "/docs/user-guide/app-management/policies/filter-condition"
           },
           {
             "from": [
@@ -755,13 +755,13 @@
             "from": [
               "/global-configurations/deployment-window"
             ],
-            "to": "/docs/user-guide/global-configurations/deployment-window"
+            "to": "/docs/user-guide/app-management/policies/deployment-window"
           },
           {
             "from": [
               "/global-configurations/approval-policy"
             ],
-            "to": "/docs/user-guide/global-configurations/approval-policy"
+            "to": "/docs/user-guide/app-management/policies/approval-policy"
           },
           {
             "from": [
@@ -785,31 +785,31 @@
             "from": [
               "/global-configurations/plugin-policy"
             ],
-            "to": "/docs/user-guide/global-configurations/plugin-policy"
+            "to": "/docs/user-guide/app-management/policies/plugin-policy"
           },
           {
             "from": [
               "/global-configurations/pull-image-digest"
             ],
-            "to": "/docs/user-guide/global-configurations/pull-image-digest"
+            "to": "/docs/user-guide/app-management/policies/pull-image-digest"
           },
           {
             "from": [
               "/global-configurations/tags-policy"
             ],
-            "to": "/docs/user-guide/global-configurations/tags-policy"
+            "to": "/docs/user-guide/app-management/policies/tags-policy"
           },
           {
             "from": [
               "/global-configurations/filter-condition"
             ],
-            "to": "/docs/user-guide/global-configurations/filter-condition"
+            "to": "/docs/user-guide/app-management/policies/filter-condition"
           },
           {
             "from": [
               "/global-configurations/lock-deployment-config"
             ],
-            "to": "/docs/user-guide/global-configurations/lock-deployment-config"
+            "to": "/docs/user-guide/app-management/policies/lock-deployment-config"
           },
           {
             "from": [

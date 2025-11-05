@@ -2,6 +2,7 @@
 id: pull-image-digest
 title: Pull Image Digest
 sidebar_label: Pull Image Digest
+slug: /user-guide/app-management/policies/pull-image-digest
 ---
 
 # Pull Image Digest

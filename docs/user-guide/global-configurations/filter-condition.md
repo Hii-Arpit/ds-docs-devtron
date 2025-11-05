@@ -1,8 +1,15 @@
+---
+id: filter-condition
+title: Filter Condition
+sidebar_label: Filter Condition
+slug: /user-guide/app-management/policies/filter-condition
+---
+
 # Filter Condition
 
 ## Introduction <a href="https://devtron.ai/pricing"><img src="https://devtron-public-asset.s3.us-east-2.amazonaws.com/images/elements/EnterpriseTag.svg" className="enterprise-badge-img" /></a>
 
-The [workflows](../creating-application/workflow/) you create in Devtron for managing the CI-CD of your application can be made flexible or restricting with the help of CD filter conditions, for e.g., not all events (such as image builds) generated during the CI stage require progression to the CD stage. Therefore, instead of creating multiple workflows that cater to complex requirements, Devtron provides you the option of defining filters to tailor your workflow according to your specific needs. 
+The [workflows](../creating-application/workflow/README.md) you create in Devtron for managing the CI-CD of your application can be made flexible or restricting with the help of CD filter conditions, for e.g., not all events (such as image builds) generated during the CI stage require progression to the CD stage. Therefore, instead of creating multiple workflows that cater to complex requirements, Devtron provides you the option of defining filters to tailor your workflow according to your specific needs. 
 
 Using filter conditions, you can control the progression of events. Here are a few general examples:
 * Images containing the label "test" should not be eligible for deployment in production environment

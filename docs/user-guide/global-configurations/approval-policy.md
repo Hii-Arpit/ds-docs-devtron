@@ -2,6 +2,7 @@
 id: approval-policy
 title: Approval Policy
 sidebar_label: Approval Policy
+slug: /user-guide/app-management/policies/approval-policy
 ---
 
 # Approval Policy

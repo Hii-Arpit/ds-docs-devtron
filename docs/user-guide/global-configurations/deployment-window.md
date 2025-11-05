@@ -2,6 +2,7 @@
 id: deployment-window
 title: Deployment Window
 sidebar_label: Deployment Window
+slug: /user-guide/app-management/policies/deployment-window
 ---
 
 # Deployment Window

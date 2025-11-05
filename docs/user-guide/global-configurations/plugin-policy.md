@@ -2,6 +2,7 @@
 id: plugin-policy
 title: Plugin Policy
 sidebar_label: Plugin Policy
+slug: /user-guide/app-management/policies/plugin-policy
 ---
 
 # Plugin Policy

@@ -2,6 +2,7 @@
 id: tags-policy
 title: Tags Policy
 sidebar_label: Tags Policy
+slug: /user-guide/app-management/policies/tags-policy
 ---
 
 # Tags Policy
